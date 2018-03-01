@@ -18,18 +18,18 @@ python --doi=10.3969/j.issn.1001-7461.2012.06.33
 
 ## sqlite数据库文件名
 
-数据库地址： <<yourEmailAddress>>@www.mendeley.com.sqlite,
-或者 online.sqlite if no email address used with Mendeley.
+数据库地址： `<<yourEmailAddress>>@www.mendeley.com.sqlite`,
+或者 `online.sqlite` if no email address used with Mendeley.
 
 ## Mac 系统
 
-数据库地址：MacOS: Macintosh HD ->
-/Users/<<Your Name>>/Library/Application Support/Mendeley Desktop/
+数据库地址：
+`/Users/<<Your Name>>/Library/Application Support/Mendeley Desktop/`
 
 ## windows
 
-1. Windows Vista/Windows 7%LOCALAPPDATA%\Mendeley Ltd.\Mendeley Desktop
-2. Windows XP: C:\Documents and Settings\<<Your Name>>\Local Settings\Application Data\Mendeley Ltd\Mendeley Desktop
+1. Windows Vista/Windows 7：`%LOCALAPPDATA%\Mendeley Ltd.\Mendeley Desktop`
+2. Windows XP: `C:\Documents and Settings\<<Your Name>>\Local Settings\Application Data\Mendeley Ltd\Mendeley Desktop`
 
 ## Linux:
 数据库地址：~/.local/share/data/Mendeley Ltd./Mendeley Desktop/
